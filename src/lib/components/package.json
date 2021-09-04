@@ -1,19 +1,19 @@
 {
-  "name": "tim5433-react-taiwan-no1-spin",
+  "name": "react-taiwan-no1-spin",
   "description": "taiwan-no1",
   "author": "yuting, Tim",
   "keywords": [
     "react",
     "components"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.cjs.js",
   "scripts": {
     "build": "rollup -c"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuting3656/tim5433-react-taiwanNo1-spin.git"
+    "url": "git+https://github.com/yuting3656/tim5433-react-taiwan-no1-spin.git"
   },
   "peerDependencies": {
     "react": "^17.0.1",

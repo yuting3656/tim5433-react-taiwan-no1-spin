@@ -1,23 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import TaiwanNo1 from "./lib/components/src/TaiwanNo1";
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <TaiwanNo1 width="300" speed="20" />
     </div>
   );
 }

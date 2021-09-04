@@ -18,12 +18,16 @@ var ImgList = [{
 // IMPORT ZONE
 //
 
-var YutingButton = function YutingButton() {
+var TaiwanNo1 = function TaiwanNo1(_ref) {
+  var _ref$speed = _ref.speed,
+      speed = _ref$speed === void 0 ? 8 : _ref$speed,
+      _ref$width = _ref.width,
+      width = _ref$width === void 0 ? 100 : _ref$width;
   return /*#__PURE__*/React__default['default'].createElement("div", {
     style: {
       borderRadius: "30px",
-      width: "100px",
-      animation: "spin 8s linear infinite"
+      width: "".concat(width, "px"),
+      animation: "spin ".concat(speed, "s linear infinite")
     }
   }, /*#__PURE__*/React__default['default'].createElement("img", {
     src: ImgList[0].taiwanNo1,
@@ -37,7 +41,7 @@ var YutingButton = function YutingButton() {
 
 var returnLibrary = function returnLibrary() {
   return {
-    TaiwanNo1: YutingButton // you can add here other components that you want to export
+    TaiwanNo1: TaiwanNo1 // you can add here other components that you want to export
 
   };
 };
