@@ -4,9 +4,7 @@
 
 - ![Imgur](https://i.imgur.com/sFmQEM9.jpg) 轉阿轉！！ 轉的 div
 
-
 # Installing
-
 
 ```bash
 npm install react-taiwan-no1-spin
@@ -29,10 +27,16 @@ function App() {
 export default App;
 ```
 
+# Demo
+
+![Imgur](https://i.imgur.com/OhlxYrn.gifv)
+
 # <TaiwanNo1 />
 
 ## width
- > default: 100
+
+> default: 100
 
 ## speed
-  > default: 8
+
+> default: 8
