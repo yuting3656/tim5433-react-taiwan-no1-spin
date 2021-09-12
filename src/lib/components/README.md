@@ -4,6 +4,10 @@
 
 - ![Imgur](https://i.imgur.com/sFmQEM9.jpg) 轉阿轉！！ 轉的 div
 
+# Demo
+
+<img src="https://i.imgur.com/OhlxYrn.gif" width="200" alt="demo-img"/>
+
 # Installing
 
 ```bash
@@ -26,10 +30,6 @@ function App() {
 
 export default App;
 ```
-
-# Demo
-
-![Imgur](https://i.imgur.com/OhlxYrn.gifv)
 
 # <TaiwanNo1 />
 

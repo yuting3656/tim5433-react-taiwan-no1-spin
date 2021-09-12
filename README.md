@@ -6,7 +6,7 @@
 
 # Demo
 
-[Imgur](https://i.imgur.com/OhlxYrn.gifv)
+<img src="https://i.imgur.com/OhlxYrn.gif" width="200" alt="demo-img"/>
 
 # Installing
 

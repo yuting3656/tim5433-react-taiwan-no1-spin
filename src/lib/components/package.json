@@ -6,7 +6,7 @@
     "react",
     "components"
   ],
-  "version": "0.1.2",
+  "version": "0.1.4",
   "main": "dist/index.cjs.js",
   "scripts": {
     "build": "rollup -c"
